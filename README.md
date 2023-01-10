@@ -5,4 +5,4 @@ For IntelliJ Users:
 . Make new project, an src folder will be created 
 . Make a new Package named Pacman in the src folder
 . move all the files in the package Pacman
-<h4>Registered under MIT LIsence</h4>
+<h4>Registered under MIT License</h4>
